@@ -1,6 +1,6 @@
 # Hello, I'm Ravjot Singh 👋
 
-Welcome to my GitHub profile! I'm a Data Scientist and AI Enthusiast specializing in Machine Learning, Deep Learning, and Generative AI. I'm passionate about solving complex problems using data and creating impactful solutions for the future.
+I'm a **Data Scientist** with expertise in **Machine Learning, NLP, Generative AI, and Large Language Models**. Currently, I'm pursuing my **Master’s in Data Analytics** at **San Jose State University**. I'm passionate about solving complex problems using data and creating impactful solutions for the future.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravjot03/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ravjot03)
@@ -10,19 +10,25 @@ Welcome to my GitHub profile! I'm a Data Scientist and AI Enthusiast specializin
 
 ## About Me 🤖
 
-I am currently pursuing my **Master's in Data Science** at **San Jose State University**, with a focus on machine learning and natural language processing.
+My journey into **Data Science and AI** has been fueled by curiosity, problem-solving, and a drive to transform data into meaningful insights. With a strong foundation in **Machine Learning, NLP, and Generative AI**, I have worked on predictive modeling, large-scale data analysis, and AI-powered automation.
+
+Currently, I’m pursuing a **Master’s in Data Analytics** at **San Jose State University (Graduating May 2025)**. My experience spans across startups **(Emigrait, Varidus & Sensegrass)** and industry leaders like **Samsung**, where I have developed end-to-end ML pipelines, optimized models for business applications, and worked on LLMs, LangChain, and AI-driven search systems.
+
+I specialize in **Machine Learning (Supervised, Unsupervised, XGBoost, Random Forest), NLP (Transformers, RAG, Prompt Engineering), Deep Learning (CNNs, RNNs, LSTMs), and Large Language Models (OpenAI, Gemini, Hugging Face, LangChain)**. My skill set includes **Python, SQL, MongoDB, TensorFlow, PyTorch, Data Visualization (Tableau, Power BI), and Cloud (AWS, GCP, Azure)**.
+
+I am passionate about **applying AI to solve real-world problems, optimizing predictive models, and enhancing explainability in ML systems**. I thrive on **building scalable AI solutions, improving LLM consistency, and integrating cutting-edge AI techniques into business strategies**.
+
+Let’s connect! I’m always open to collaborations, discussions, and innovative AI-driven projects. Check out my GitHub for my latest work, or reach out via [LinkedIn](https://www.linkedin.com/in/ravjot03/) or via email [ravjot313@gmail.com](ravjot313@gmail.com).
 
 ### Key Areas of Expertise:
-- Machine Learning & Deep Learning (ANN, CNN, RNN, LSTMs)
-- Natural Language Processing (NLP)
-- Generative AI (GPT, Gemini, Hugging Face)
-- Data Science & Analytics
-- Cloud Computing (AWS, Azure, GCP)
-
-### Connect with Me:
-- **LinkedIn**: [Ravjot Singh](https://www.linkedin.com/in/ravjot03/)
-- **GitHub**: [Ravjot Singh](https://github.com/Ravjot03)
-- **Medium**: [Ravjot's Blog](https://ravjot03.medium.com/)
+- **Statistical Programming Language:** `Python` `Numpy` `Pandas` `SciPy`, `R`
+- **Machine Learning and Deep Learning Frameworks:** `Scikit-Learn` `PyTorch` `Tensorflow`
+- **Cloud and Databases:** `AWS` `Google GCP` `Microsoft Azure` `SQL Server` `MySQL` `BigQuery`
+- **Data Visualization Tools:** `Matplotlib` `Seaborn` `Tableau` `PowerBI` `Looker` `Google Analytics`
+- **AI Prowess:** `Large Language Models (LLMs)` `Retrieval Augmented Systems (RAGs)` `Fine-Tuning` `Generative AI` `Agentic AI` `Transformers` `LangChain` `GPTs` `HuggingFace` `Gemini` `Llama` `WhisperAI` `BERT` `RoBERTa` `BART` `LangGraph` `Groq` `OpenAI` `Diffusion Models` `GANs` `CGANs` `StyleGANs`
+- **Machine Learning:** `Supervised Learning` `Unsupervised Learning` `Regression` `Classification` `Random Forest` `XGBoost` `Ensemble Learning`
+- **Natural Language Processing (NLP):** `NLTK` `SpaCy` `Embedding Models`
+- **Deep Learning:** `ANNs` `CNNs` `RNNs` `LSTMs` `GRUs`
 
 ---
 
