@@ -2,9 +2,11 @@
 
 I'm a **Data Scientist** with expertise in **Machine Learning, NLP, Generative AI, and Large Language Models**. Currently, I'm pursuing my **Master’s in Data Analytics** at **San Jose State University**. I'm passionate about solving complex problems using data and creating impactful solutions for the future.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravjot03/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ravjot03)
-[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://ravjot03.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravjot03/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravjot03)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ravjot03.medium.com/)
+[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/ravjot313)
+
 
 ---
 
@@ -146,26 +148,6 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
   </tr>
 </table>
 
-### 1. [**Customer Segmentation Analytics**](https://github.com/RavjotSingh/Customer-Segmentation-Analytics)
-- **Description**: Using clustering and classification techniques to segment customers based on purchasing behavior.
-- **Languages Used**: Python, SQL
-- **Technologies**: K-means, DBSCAN, Random Forest, XGBoost
-
-### 2. [**Text Generation Web Application**](https://github.com/RavjotSingh/Machine-Translation-Using-RNNs)
-- **Description**: This project showcases an AI-Powered Text Generator built using Flask, the Google Gemini model, and the LangChain framework. The app allows users to input text and receive AI-generated content instantly, providing a powerful tool for content creators and innovators in the AI space.
-- **Languages Used**: Python
-- **Technologies**: LangChain, Flask, Google Gemini Pro 1.5
-
-### 3. [**PDF Query Application with LangChain & ChatGPT**](https://github.com/Ravjot03/Query-PDF-using-LangChain)
-- **Description**: Developed a system that allows querying a PDF document using LangChain, ChatGPT, and Google AI API.
-- **Languages Used**: Python
-- **Technologies**: LangChain, OpenAI API, PDF Processing
-
-### 4. [**Language Translator Using LangChain**](https://github.com/RavjotSingh/Language-Translator)
-- **Description**: Built a language translation tool using few-shot learning with LangChain and Hugging Face models.
-- **Languages Used**: Python
-- **Technologies**: LangChain, Hugging Face Transformers
-
 ---
 
 ## 🌱 I'm currently learning
@@ -179,7 +161,8 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
 
 ## 📣 Let's Connect
 
-Feel free to reach out to me through any of the following platforms:
+Feel free to reach out to me through via email or any of the following platforms:
+- **Email**: [ravjot313@gmail.com](ravjot313@gmail.com)
 - **LinkedIn**: [Ravjot Singh](https://www.linkedin.com/in/ravjot03/)
 - **GitHub**: [Ravjot Singh](https://github.com/Ravjot03)
 - **Medium**: [Ravjot's Blog](https://ravjot03.medium.com/)
