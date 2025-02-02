@@ -20,7 +20,9 @@ I am passionate about **applying AI to solve real-world problems, optimizing pre
 
 Let’s connect! I’m always open to collaborations, discussions, and innovative AI-driven projects. Check out my GitHub for my latest work, or reach out via [LinkedIn](https://www.linkedin.com/in/ravjot03/) or via email [ravjot313@gmail.com](ravjot313@gmail.com).
 
-### Key Areas of Expertise:
+---
+
+## Key Areas of Expertise:
 - **Statistical Programming Language:** `Python` `Numpy` `Pandas` `SciPy`, `R`
 - **Machine Learning and Deep Learning Frameworks:** `Scikit-Learn` `PyTorch` `Tensorflow`
 - **Cloud and Databases:** `AWS` `Google GCP` `Microsoft Azure` `SQL Server` `MySQL` `BigQuery`
@@ -92,9 +94,47 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) 
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
   ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
+
 ---
 
 ## 📚 Featured Projects
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Languages/ Tools Used</th>
+    <th>Repository Link</th>
+  </tr>
+  <tr>
+    <td><b>Multimodal AI Agent for Web Search & Stock Analysis</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/f81f75c0-6cba-4aed-8325-b64e43633ada" />
+</td>
+    <td> This project demonstrates a multimodal AI agent setup that integrates different AI models and tools for web searching and stock analysis. The AI agents use the Groq model (powered by Llama-3.3-70b) to gather and analyze information from web search engines (DuckDuckGo) and financial data sources (Yahoo Finance) in a highly collaborative manner. </td>
+    <td>LLM - LLaMA-3.3-70b, DuckDuckGo API, YFinanceTools, Groq Model API</td>
+    <td><a href="https://github.com/Ravjot03/Multimodal-AI-Agent">Project</a></td>
+  </tr>
+  <tr>
+    <td><b>Interactive Chatbot creation and Task automation with OpenAI</b><br><img width="200" alt="image" src="https://github.com/user-attachments/assets/c9626b61-0c35-4831-891f-cd9cb8e4ea0c" /></td>
+    <td>The project involved using OpenAI API and Langchain to create a chatbot that is capable of handling a sequence of chats and ability summarize the entire chat at the end of the session. The tasks involved solving a complex Maths problem, parse a PDF or Website and answer questions about the content or combine information from multiple sources and provide intelligent responses. </td>
+    <td><a href="https://github.com/eshita-ds/NLP-and-LLM/tree/main/Interactive_Chatbot_Creation_and_Task_Automation_with_OpenAI">Project</a></td>
+  </tr>
+    <tr>
+    <td><b>Code understanding and Context aware chatbot using Langchain and OpenAI</b></td>
+    <td>The project involved focuses on building a code understanding model that allows users to upload custom code files and ask context-based questions about them. It also explores the ability for a chatbot to have iterative conversations using Custom text data or multiple documents. It also utilizes the ability to store chats in memory and provide a summary at the end of the session.</td>
+    <td><a href="https://github.com/eshita-ds/NLP-and-LLM/tree/main/Code_understanding_and_Context_aware_chatbot_using_Langchain_and_OpenAI">Project</a></td>
+  </tr>
+  <tr>
+    <td><b>Text Translation using NLP and Transformer based models</b></td>
+    <td>This task focuses on implementing text translation using NLP techniques and transformer-based models. The goal is to accurately translate text between languages by leveraging the advanced capabilities of transformers for contextual understanding and sequence-to-sequence learning.</td>
+    <td><a href="https://github.com/eshita-ds/NLP-and-LLM/tree/main/Text_Translation_using_NLP_Transformer_based_models">Project</a></td>
+  </tr>
+  <tr>
+    <td><b>Training a Question and Answer model using BERT on SQUAD dataset</b><br><img width="200" alt="image" src="https://github.com/user-attachments/assets/b6d70952-fada-42cd-afe3-782a2e33edea" />
+</td>
+    <td>This task involves training a Question and Answer (Q&A) model using BERT on the SQuAD dataset. The objective is to develop a model capable of accurately answering questions based on context, leveraging BERT’s pre-trained language understanding.</td>
+    <td><a href="https://github.com/eshita-ds/NLP-and-LLM/tree/main/Training_QnA_model_using_BERT_on_SQUAD_dataset">Project</a></td>
+  </tr>
+</table>
 
 ### 1. [**Customer Segmentation Analytics**](https://github.com/RavjotSingh/Customer-Segmentation-Analytics)
 - **Description**: Using clustering and classification techniques to segment customers based on purchasing behavior.
