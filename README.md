@@ -116,7 +116,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
   </tr>
   
   <tr>
-    <td><b>Multimodal AI Agent - News Summarization & Sentiment Analysis</b><br><img width="200" alt="image" src="https://github.com/user-attachments/assets/c9626b61-0c35-4831-891f-cd9cb8e4ea0c" /></td>
+    <td><b>Multimodal AI Agent - News Summarization & Sentiment Analysis</b><br></td>
     <td>This project presents the design and implementation of a personalized news aggregator built using multi-modal AI techniques. The system collects news articles, generates summaries using language models, and performs sentiment analysis to deliver relevant and customized content to users. The agent leverages state-of-the-art AI models and frameworks, demonstrating how intelligent automation can be applied to enhance user experiences.</td>
     <td><a href="https://github.com/Ravjot03/Multimodal-AI-Agent-News">Project</a></td>
   </tr>
@@ -126,14 +126,17 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     </td>
     <td>This project showcases an AI-Powered Text Generator built using Flask, the Google Gemini model, and the LangChain framework. The app allows users to input text and receive AI-generated content instantly, providing a powerful tool for content creators and innovators in the AI space.
     </td>
-    <td> Python, LangChain, Google Gemini 1.5 Pro (LLM), Flask (Web Development)</td>
+    <td>LangChain, Google Gemini 1.5 Pro (LLM), Flask (Web Development)</td>
     <td><a href="https://github.com/eshita-ds/NLP-and-LLM/tree/main/Code_understanding_and_Context_aware_chatbot_using_Langchain_and_OpenAI">Project</a></td>
   </tr>
+  
   <tr>
-    <td><b>Text Translation using NLP and Transformer based models</b></td>
-    <td>This task focuses on implementing text translation using NLP techniques and transformer-based models. The goal is to accurately translate text between languages by leveraging the advanced capabilities of transformers for contextual understanding and sequence-to-sequence learning.</td>
-    <td><a href="https://github.com/Ravjot03/Text-Generation-Web-App-using-LangChain">Project</a></td>
+    <td><b>Querying PDFs with AI</b></td>
+    <td>In this project, an AI-powered system is built that intelligently queries and extracts answers from PDF documents. By leveraging tools like LangChain, FAISS, and OpenAI, we transformed raw text into searchable data, enabling the automatic retrieval of relevant information. This project serves as a practical introduction to using AI for document analysis, demonstrating how to automate the process of finding answers within large PDF files efficiently and effectively.</td>
+    <td>LangChain, FAISS, OpenAI API</td>
+    <td><a href="https://github.com/Ravjot03/Query-PDF-using-LangChain">Project</a></td>
   </tr>
+  
   <tr>
     <td><b>Training a Question and Answer model using BERT on SQUAD dataset</b><br><img width="200" alt="image" src="https://github.com/user-attachments/assets/b6d70952-fada-42cd-afe3-782a2e33edea" />
 </td>
