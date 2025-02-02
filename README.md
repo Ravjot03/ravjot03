@@ -125,7 +125,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
   </tr>
   
   <tr>
-    <td><b>Text Generation Web Application</b>
+    <td><b>Text Generation Web Application</b><img width="150" alt="image" src="https://github.com/user-attachments/assets/aee1b792-776c-43e0-83c9-c52f4027fe48" />
     </td>
     <td>This project showcases an AI-Powered Text Generator built using Flask, the Google Gemini model, and the LangChain framework. The app allows users to input text and receive AI-generated content instantly, providing a powerful tool for content creators and innovators in the AI space.
     </td>
@@ -134,14 +134,16 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
   </tr>
   
   <tr>
-    <td><b>Querying PDFs with AI</b></td>
+    <td><b>Querying PDFs with AI</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/2b8e2595-b41e-45ba-8f23-fb6668570106" />
+    </td>
     <td>In this project, an AI-powered system is built that intelligently queries and extracts answers from PDF documents. By leveraging tools like LangChain, FAISS, and OpenAI, we transformed raw text into searchable data, enabling the automatic retrieval of relevant information. This project serves as a practical introduction to using AI for document analysis, demonstrating how to automate the process of finding answers within large PDF files efficiently and effectively.</td>
     <td>LangChain, FAISS, OpenAI API</td>
     <td><a href="https://github.com/Ravjot03/Query-PDF-using-LangChain">Project</a></td>
   </tr>
   
   <tr>
-    <td><b>Fashion Recommendation System Using Image Features</td>
+    <td><b>Fashion Recommendation System Using Image Features</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/86df62b7-1698-4c34-8a14-d331bfdb9ebc" />
+    </td>
     <td>This project demonstrates the process of building a Fashion Recommendation System using image features. By leveraging computer vision and pre-trained deep learning models, this system analyzes the visual characteristics of fashion items (e.g., color, texture, style) and recommends similar or complementary products.</td>
       <td>Tensorflow, VGG16</td>
     <td><a href="https://github.com/Ravjot03/Fashion-Recommendation-System">Project</a></td>
