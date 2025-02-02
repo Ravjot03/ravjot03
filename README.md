@@ -114,9 +114,9 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     <td><a href="https://github.com/Ravjot03/Multimodal-AI-Agent">Project</a></td>
   </tr>
   <tr>
-    <td><b>Interactive Chatbot creation and Task automation with OpenAI</b><br><img width="200" alt="image" src="https://github.com/user-attachments/assets/c9626b61-0c35-4831-891f-cd9cb8e4ea0c" /></td>
-    <td>The project involved using OpenAI API and Langchain to create a chatbot that is capable of handling a sequence of chats and ability summarize the entire chat at the end of the session. The tasks involved solving a complex Maths problem, parse a PDF or Website and answer questions about the content or combine information from multiple sources and provide intelligent responses. </td>
-    <td><a href="https://github.com/eshita-ds/NLP-and-LLM/tree/main/Interactive_Chatbot_Creation_and_Task_Automation_with_OpenAI">Project</a></td>
+    <td><b>Multimodal AI Agent - News Summarization & Sentiment Analysis</b><br><img width="200" alt="image" src="https://github.com/user-attachments/assets/c9626b61-0c35-4831-891f-cd9cb8e4ea0c" /></td>
+    <td>This project presents the design and implementation of a personalized news aggregator built using multi-modal AI techniques. The system collects news articles, generates summaries using language models, and performs sentiment analysis to deliver relevant and customized content to users. The agent leverages state-of-the-art AI models and frameworks, demonstrating how intelligent automation can be applied to enhance user experiences.</td>
+    <td><a href="https://github.com/Ravjot03/Multimodal-AI-Agent-News">Project</a></td>
   </tr>
     <tr>
     <td><b>Code understanding and Context aware chatbot using Langchain and OpenAI</b></td>
