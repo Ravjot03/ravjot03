@@ -134,7 +134,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
   </tr>
   
   <tr>
-    <td><b>Querying PDFs with AI</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/2b8e2595-b41e-45ba-8f23-fb6668570106" />
+    <td><b>Querying PDFs with AI</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/288e9423-d50a-471e-be94-c7be8f3a5aa8" />
     </td>
     <td>In this project, an AI-powered system is built that intelligently queries and extracts answers from PDF documents. By leveraging tools like LangChain, FAISS, and OpenAI, we transformed raw text into searchable data, enabling the automatic retrieval of relevant information. This project serves as a practical introduction to using AI for document analysis, demonstrating how to automate the process of finding answers within large PDF files efficiently and effectively.</td>
     <td>LangChain, FAISS, OpenAI API</td>
