@@ -111,13 +111,14 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     <td><b>Multimodal AI Agent for Web Search & Stock Analysis</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/f81f75c0-6cba-4aed-8325-b64e43633ada" />
 </td>
     <td> This project demonstrates a multimodal AI agent setup that integrates different AI models and tools for web searching and stock analysis. The AI agents use the Groq model (powered by Llama-3.3-70b) to gather and analyze information from web search engines (DuckDuckGo) and financial data sources (Yahoo Finance) in a highly collaborative manner. </td>
-    <td>LLM - LLaMA-3.3-70b, DuckDuckGo API, YFinanceTools, Groq Model API</td>
+    <td>LLaMA-3.3-70b (LLM), DuckDuckGo API, YFinanceTools, Groq Model API</td>
     <td><a href="https://github.com/Ravjot03/Multimodal-AI-Agent">Project</a></td>
   </tr>
   
   <tr>
     <td><b>Multimodal AI Agent - News Summarization & Sentiment Analysis</b><br></td>
     <td>This project presents the design and implementation of a personalized news aggregator built using multi-modal AI techniques. The system collects news articles, generates summaries using language models, and performs sentiment analysis to deliver relevant and customized content to users. The agent leverages state-of-the-art AI models and frameworks, demonstrating how intelligent automation can be applied to enhance user experiences.</td>
+    <td>NLTK, Requests, NewsAPI, OpenAI GPT-3.5 Turbo (LLM)</td>
     <td><a href="https://github.com/Ravjot03/Multimodal-AI-Agent-News">Project</a></td>
   </tr>
   
