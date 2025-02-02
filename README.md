@@ -138,10 +138,10 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
   </tr>
   
   <tr>
-    <td><b>Training a Question and Answer model using BERT on SQUAD dataset</b><br><img width="200" alt="image" src="https://github.com/user-attachments/assets/b6d70952-fada-42cd-afe3-782a2e33edea" />
-</td>
-    <td>This task involves training a Question and Answer (Q&A) model using BERT on the SQuAD dataset. The objective is to develop a model capable of accurately answering questions based on context, leveraging BERT’s pre-trained language understanding.</td>
-    <td><a href="https://github.com/eshita-ds/NLP-and-LLM/tree/main/Training_QnA_model_using_BERT_on_SQUAD_dataset">Project</a></td>
+    <td><b>Fashion Recommendation System Using Image Features</td>
+    <td>This project demonstrates the process of building a Fashion Recommendation System using image features. By leveraging computer vision and pre-trained deep learning models, this system analyzes the visual characteristics of fashion items (e.g., color, texture, style) and recommends similar or complementary products.</td>
+      <td>Tensorflow, VGG16</td>
+    <td><a href="https://github.com/Ravjot03/Fashion-Recommendation-System">Project</a></td>
   </tr>
 </table>
 
