@@ -124,11 +124,11 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     <td><a href="https://github.com/Ravjot03/Multimodal-AI-Agent-News">Project</a></td>
   </tr>
 
-    <tr>
+  <tr>
     <td><b>Multimodal AI for Medical Diagnosis</b><br></td>
     <td>This project leverages Multimodal AI Agents to analyze medical reports from various specialist perspectives, including cardiology, psychology, pulmonology, neurology, endocrinology, and immunology. Using LangChain, OpenAI's GPT models, and PyMuPDF, the system extracts insights from a PDF medical report, processes it through multiple AI-powered agents, and generates a comprehensive multidisciplinary diagnosis.</td>
     <td>LangChain, OpenAI GPT-3.5 Turbo (LLM), Streamlit (Web Development)</td>
-    <td><a href="https://github.com/Ravjot03/Multimodal-AI-Agent-News">Project</a></td>
+    <td><a href="https://github.com/Ravjot03/Multimodal-AI-Healthcare">Project</a></td>
   </tr>
   
   <tr>
