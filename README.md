@@ -125,7 +125,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
   </tr>
 
   <tr>
-    <td><b>Multimodal AI for Medical Diagnosis</b><br><img width="150" alt="image" src="![Screenshot 2025-04-09 at 11 21 30 PM](https://github.com/user-attachments/assets/f50f8d45-4feb-4470-baf5-262b2b325f84)" />
+    <td><b>Multimodal AI for Medical Diagnosis</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/006e44c1-5512-4657-8744-dc123672e1ff" />
     </td>
     <td>This project leverages Multimodal AI Agents to analyze medical reports from various specialist perspectives, including cardiology, psychology, pulmonology, neurology, endocrinology, and immunology. Using LangChain, OpenAI's GPT models, and PyMuPDF, the system extracts insights from a PDF medical report, processes it through multiple AI-powered agents, and generates a comprehensive multidisciplinary diagnosis.</td>
     <td>LangChain, OpenAI GPT-3.5 Turbo (LLM), Streamlit (Web Development)</td>
@@ -133,7 +133,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
   </tr>
   
   <tr>
-    <td><b>Text Generation Web Application</b><img width="100" alt="image" src="https://github.com/user-attachments/assets/aee1b792-776c-43e0-83c9-c52f4027fe48" />
+    <td><b>Text Generation Web Application</b><img width="150" alt="image" src="https://github.com/user-attachments/assets/aee1b792-776c-43e0-83c9-c52f4027fe48" />
     </td>
     <td>This project showcases an AI-Powered Text Generator built using Flask, the Google Gemini model, and the LangChain framework. The app allows users to input text and receive AI-generated content instantly, providing a powerful tool for content creators and innovators in the AI space.
     </td>
