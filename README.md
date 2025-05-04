@@ -138,7 +138,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     <td>This project showcases an AI-Powered Text Generator built using Flask, the Google Gemini model, and the LangChain framework. The app allows users to input text and receive AI-generated content instantly, providing a powerful tool for content creators and innovators in the AI space.
     </td>
     <td>LangChain, Google Gemini 1.5 Pro (LLM), Flask (Web Development)</td>
-    <td><a href="https://github.com/eshita-ds/NLP-and-LLM/tree/main/Code_understanding_and_Context_aware_chatbot_using_Langchain_and_OpenAI">Project</a></td>
+    <td><a href="https://github.com/Ravjot03/Text-Generation-Web-App-using-LangChain">Project</a></td>
   </tr>
   
   <tr>
