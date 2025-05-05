@@ -127,7 +127,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
   </tr>
 
   <tr>
-    <td><b>Multimodal AI for Medical Diagnosis</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/6483a406-a739-4db6-9d80-f2e7ad11522e" />
+    <td><b>AI Fitness Coach</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/6483a406-a739-4db6-9d80-f2e7ad11522e" />
     </td>
     <td>The AI-Powered Fitness Coach is a Python-based application that generates personalized workout plans using AI. It tailors fitness recommendations based on user inputs such as fitness level, goals, duration, and available equipment. This project eliminates the need for generic workout plans by leveraging OpenAI's language model to create dynamic, customized routines.</td>
     <td>LangChain, OpenAI GPT (LLM), Streamlit (Web Development)</td>
@@ -135,7 +135,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
   </tr>
 
   <tr>
-    <td><b>AI Fitness Coach</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/006e44c1-5512-4657-8744-dc123672e1ff" />
+    <td><b>Multimodal AI for Medical Diagnosis</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/006e44c1-5512-4657-8744-dc123672e1ff" />
     </td>
     <td>This project leverages Multimodal AI Agents to analyze medical reports from various specialist perspectives, including cardiology, psychology, pulmonology, neurology, endocrinology, and immunology. The system extracts insights from a PDF patient medical report, processes it through multiple AI-powered agents, and generates a comprehensive multidisciplinary diagnosis.</td>
     <td>LangChain, OpenAI GPT-3.5 Turbo (LLM), Streamlit (Web Development)</td>
