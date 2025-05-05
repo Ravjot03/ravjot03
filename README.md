@@ -130,8 +130,8 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     <td><b>Multimodal AI for Medical Diagnosis</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/6483a406-a739-4db6-9d80-f2e7ad11522e" />
     </td>
     <td>The AI-Powered Fitness Coach is a Python-based application that generates personalized workout plans using AI. It tailors fitness recommendations based on user inputs such as fitness level, goals, duration, and available equipment. This project eliminates the need for generic workout plans by leveraging OpenAI's language model to create dynamic, customized routines.</td>
-    <td>LangChain, OpenAI GPT-3.5 Turbo (LLM), Streamlit (Web Development)</td>
-    <td><a href="https://github.com/Ravjot03/Multimodal-AI-Healthcare">Project</a></td>
+    <td>LangChain, OpenAI GPT (LLM), Streamlit (Web Development)</td>
+    <td><a href="https://github.com/Ravjot03/AI-Fitness-Coach">Project</a></td>
   </tr>
 
   <tr>
