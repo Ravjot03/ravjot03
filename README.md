@@ -131,6 +131,14 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     <td>LangChain, OpenAI GPT-3.5 Turbo (LLM), Streamlit (Web Development)</td>
     <td><a href="https://github.com/Ravjot03/Multimodal-AI-Healthcare">Project</a></td>
   </tr>
+
+  <tr>
+    <td><b>RAG based PDF Q/A System</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/d952ac12-0466-4155-a27e-60626de26d0b" />
+    </td>
+    <td>A powerful and intuitive PDF chatbot that allows users to upload multiple documents and query them with natural language questions. The system retrieves relevant content using FAISS vector search and generates answers using OpenAI's GPT-3.5-Turbo — a full Retrieval-Augmented Generation (RAG) pipeline.</td>
+    <td>LangChain, OpenAI GPT-3.5 (LLM), Streamlit (Web Development)</td>
+    <td><a href="[https://github.com/Ravjot03/Multimodal-AI-Healthcare](https://github.com/Ravjot03/MultiPDF-Chat-Agent-RAG-System)">Project</a></td>
+  </tr>
   
   <tr>
     <td><b>Text Generation Web Application</b><img width="150" alt="image" src="https://github.com/user-attachments/assets/aee1b792-776c-43e0-83c9-c52f4027fe48" />
@@ -141,13 +149,6 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     <td><a href="https://github.com/Ravjot03/Text-Generation-Web-App-using-LangChain">Project</a></td>
   </tr>
   
-  <tr>
-    <td><b>Querying PDFs with AI</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/288e9423-d50a-471e-be94-c7be8f3a5aa8" />
-    </td>
-    <td>In this project, an AI-powered system is built that intelligently queries and extracts answers from PDF documents. By leveraging tools like LangChain, FAISS, and OpenAI, we transformed raw text into searchable data, enabling the automatic retrieval of relevant information. This project serves as a practical introduction to using AI for document analysis, demonstrating how to automate the process of finding answers within large PDF files efficiently and effectively.</td>
-    <td>LangChain, FAISS, OpenAI API</td>
-    <td><a href="https://github.com/Ravjot03/Query-PDF-using-LangChain">Project</a></td>
-  </tr>
   
   <tr>
     <td><b>Fashion Recommendation System Using Image Features</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/86df62b7-1698-4c34-8a14-d331bfdb9ebc" />
@@ -156,6 +157,17 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
       <td>Tensorflow, VGG16</td>
     <td><a href="https://github.com/Ravjot03/Fashion-Recommendation-System">Project</a></td>
   </tr>
+
+  
+  <tr>
+    <td><b>Querying PDFs with AI</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/288e9423-d50a-471e-be94-c7be8f3a5aa8" />
+    </td>
+    <td>In this project, an AI-powered system is built that intelligently queries and extracts answers from PDF documents. By leveraging tools like LangChain, FAISS, and OpenAI, we transformed raw text into searchable data, enabling the automatic retrieval of relevant information. This project serves as a practical introduction to using AI for document analysis, demonstrating how to automate the process of finding answers within large PDF files efficiently and effectively.</td>
+    <td>LangChain, FAISS, OpenAI API</td>
+    <td><a href="https://github.com/Ravjot03/Query-PDF-using-LangChain">Project</a></td>
+  </tr>
+  
+  
 </table>
 
 ---
