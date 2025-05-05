@@ -101,6 +101,8 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
 
 ## 📚 Featured Projects
 
+### MultiModal AI Agents
+
 <table>
   <tr>
     <th>Project Name</th>
@@ -130,6 +132,19 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     <td>This project leverages Multimodal AI Agents to analyze medical reports from various specialist perspectives, including cardiology, psychology, pulmonology, neurology, endocrinology, and immunology. The system extracts insights from a PDF patient medical report, processes it through multiple AI-powered agents, and generates a comprehensive multidisciplinary diagnosis.</td>
     <td>LangChain, OpenAI GPT-3.5 Turbo (LLM), Streamlit (Web Development)</td>
     <td><a href="https://github.com/Ravjot03/Multimodal-AI-Healthcare">Project</a></td>
+  </tr>
+
+  
+</table>
+
+### RAG Pipelines and Agentic AI Systems
+
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Languages/ Tools Used</th>
+    <th>Repository Link</th>
   </tr>
 
   <tr>
