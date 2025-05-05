@@ -7,6 +7,7 @@ I'm a **Data Scientist** with expertise in **Machine Learning, NLP, Generative A
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ravjot03.medium.com/)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/ravjot313)
 
+![Profile views](https://komarev.com/ghpvc/?username=RavjotSingh&color=brightgreen)
 
 ---
 
