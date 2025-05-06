@@ -161,7 +161,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     </td>
     <td>A powerful and intuitive PDF chatbot that allows users to upload multiple documents and query them with natural language questions. The system retrieves relevant content using FAISS vector search and generates answers using OpenAI's GPT-3.5-Turbo — a full Retrieval-Augmented Generation (RAG) pipeline.</td>
     <td>LangChain, OpenAI GPT-3.5 (LLM), Streamlit (Web Development)</td>
-    <td><a href="[https://github.com/Ravjot03/Multimodal-AI-Healthcare](https://github.com/Ravjot03/MultiPDF-Chat-Agent-RAG-System)">Project</a></td>
+    <td><a href="https://github.com/Ravjot03/MultiPDF-Chat-Agent-RAG-System">Project</a></td>
   </tr>
   
   <tr>
