@@ -37,12 +37,6 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
 
 ---
 
-## 📈 GitHub Stats
-
-![Ravjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravjot03&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
 ## 🛠️ Technologies & Tools I Use
 
 - **Programming Languages**: 
@@ -218,6 +212,12 @@ Feel free to reach out to me through via email or any of the following platforms
 ## 📌 Profile Views
 
 ![Profile views](https://komarev.com/ghpvc/?username=RavjotSingh&color=brightgreen)
+
+---
+
+## 📈 GitHub Stats
+
+![Ravjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravjot03&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
