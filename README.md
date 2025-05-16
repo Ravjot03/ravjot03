@@ -118,7 +118,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     <td><b>Multimodal AI Agent - Data Companion App</b><br></td>
     <td>A Streamlit application that lets you interact with your datasets using natural language, using NVIDIA's Llama 3.1 Nemotron Ultra. Upload a CSV file, ask questions about the data, and get back code, plots, and clear explanations.</td>
     <td>NVIDIA Nemotron(LLM), OpenAI, Streamlit (Web Dev)</td>
-    <td><a href="https://github.com/Ravjot03/Multimodal-AI-Agent-News">Project</a></td>
+    <td><a href="https://github.com/Ravjot03/Data-Companion-App">Project</a></td>
   </tr>
 
   
