@@ -146,7 +146,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
   </tr>
 
   <tr>
-    <td><b>House Inspection Intelligence System</b><br><img width="150" alt="image" src="" />
+    <td><b>House Inspection Intelligence System</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/cded6319-705a-4b6b-bd30-9550bcc22e0e" />
 </td>
     <td> An E2E Generative AI–powered MVP that transforms long, unstructured home inspection reports into structured insights, prioritized issues, cost estimates, and interactive analysis — all delivered through a clean web interface.</td>
     <td>OpenAI GPT-4 (LLM), FAISS VectorDB, Bing Search, JSON Extraction</td>
