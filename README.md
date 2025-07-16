@@ -199,6 +199,14 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     <td>LangChain, FAISS, OpenAI API</td>
     <td><a href="https://github.com/Ravjot03/Query-PDF-using-LangChain">Project</a></td>
   </tr>
+
+  <tr>
+    <td><b>Advanced RAG App using AWS Bedrock and LangChain</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/d952ac12-0466-4155-a27e-60626de26d0b" />
+    </td>
+    <td>A powerful and intuitive PDF chatbot that allows users to upload multiple documents and query them with natural language questions. The system retrieves relevant content using FAISS vector search and generates answers using OpenAI's GPT-3.5-Turbo — a full Retrieval-Augmented Generation (RAG) pipeline.</td>
+    <td>LangChain, OpenAI GPT-3.5 (LLM), Streamlit (Web Development)</td>
+    <td><a href="https://github.com/Ravjot03/MultiPDF-Chat-Agent-RAG-System">Project</a></td>
+  </tr>
   
   
 </table>
