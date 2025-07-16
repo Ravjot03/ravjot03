@@ -150,7 +150,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
 </td>
     <td> An E2E Generative AI–powered MVP that transforms long, unstructured home inspection reports into structured insights, prioritized issues, cost estimates, and interactive analysis — all delivered through a clean web interface.</td>
     <td>OpenAI GPT-4 (LLM), FAISS VectorDB, Bing Search, JSON Extraction</td>
-    <td><a href="https://github.com/Ravjot03/Multimodal-AI-Agent">Project</a></td>
+    <td><a href="https://github.com/Ravjot03/House-Inspection-Intelligence">Project</a></td>
   </tr>
   
 </table>
