@@ -204,7 +204,7 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     <td><b>Advanced RAG App using AWS Bedrock and LangChain</b><br><img width="150" alt="image" src="" />
     </td>
     <td>This project allows users to interact with PDF documents using natural language questions, powered by Amazon Bedrock LLMs (Claude, LLaMA 3) and Titan Embeddings. The application uses LangChain for document processing, vector search via FAISS, and a streamlined Streamlit UI for real-time Q&A. </td>
-    <td>LangChain, OpenAI GPT-3.5 (LLM), Streamlit (Web Development)</td>
+    <td>AWS Bedrock, Claude, Llama-3 (LLM), Titan Embeddings, Streamlit (Web Development)</td>
     <td><a href="https://github.com/Ravjot03/Advanced-RAG-App-using-AWS-Bedrock-and-LangChain">Project</a></td>
   </tr>
   
