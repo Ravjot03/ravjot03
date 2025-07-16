@@ -145,6 +145,13 @@ Let’s connect! I’m always open to collaborations, discussions, and innovativ
     <td><a href="https://github.com/Ravjot03/Multimodal-AI-Healthcare">Project</a></td>
   </tr>
 
+  <tr>
+    <td><b>House Inspection Intelligence System</b><br><img width="150" alt="image" src="https://github.com/user-attachments/assets/f81f75c0-6cba-4aed-8325-b64e43633ada" />
+</td>
+    <td> An E2E Generative AI–powered MVP that transforms long, unstructured home inspection reports into structured insights, prioritized issues, cost estimates, and interactive analysis — all delivered through a clean web interface.</td>
+    <td>OpenAI GPT-4 (LLM), FAISS VectorDB, Bing Search, JSON Extraction</td>
+    <td><a href="https://github.com/Ravjot03/Multimodal-AI-Agent">Project</a></td>
+  </tr>
   
 </table>
 
