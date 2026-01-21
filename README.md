@@ -15,7 +15,7 @@ I'm a **AI/ML Data Scientist** with expertise in **Machine Learning, NLP, Genera
 
 My journey into **Data Science and AI** has been fueled by curiosity, problem-solving, and a drive to transform data into meaningful insights. With a strong foundation in **Machine Learning, NLP, and Generative AI**, I have worked on predictive modeling, large-scale data analysis, and AI-powered automation.
 
-Currently, I’m pursuing a **Master’s in Data Analytics** at **San Jose State University (Graduating May 2025)**. My experience spans across startups **(Emigrait, Varidus & Sensegrass)** and industry leaders like **Samsung**, where I have developed end-to-end ML pipelines, optimized models for business applications, and worked on LLMs, LangChain, and AI-driven search systems.
+Currently, I’m pursuing a **Master’s in Applied Data Science & Analytics** at **San Jose State University (Graduating May 2025)**. My experience spans across startups **(Emigrait, Varidus & Sensegrass)** and industry leaders like **Samsung**, where I have developed end-to-end ML pipelines, optimized models for business applications, and worked on LLMs, LangChain, and AI-driven search systems.
 
 I specialize in **Machine Learning (Supervised, Unsupervised, XGBoost, Random Forest), NLP (Transformers, RAG, Prompt Engineering), Deep Learning (CNNs, RNNs, LSTMs), and Large Language Models (OpenAI, Gemini, Hugging Face, LangChain)**. My skill set includes **Python, SQL, MongoDB, TensorFlow, PyTorch, Data Visualization (Tableau, Power BI), and Cloud (AWS, GCP, Azure)**.
 
