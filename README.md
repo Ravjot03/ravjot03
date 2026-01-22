@@ -1,6 +1,7 @@
 # Hello, I'm Ravjot Singh 👋
 
-I'm a **AI/ML Data Scientist** with expertise in **Machine Learning, NLP, Generative AI, and Large Language Models**. Currently, I'm pursuing my **Master’s in Applied Data Science & Analytics** at **San Jose State University**. I'm passionate about solving complex problems using data and creating impactful solutions for the future.
+I’m an **AI/ML Data Scientist** with **5+ years of experience** building end-to-end, business-critical data products - spanning **predictive modeling, NLP, Generative AI, and LLM/Agentic AI systems**. I hold a **Master’s in Applied Data Science & Analytics (San José State University, CA)**. I’m passionate about turning messy, high-volume data into **reliable, measurable, and production-ready** solutions.
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravjot03/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravjot03)
