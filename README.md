@@ -1,4 +1,4 @@
-# Hello, I'm Ravjot Singh 👋
+# Hello, I'm Ravjot Singh (RAV) 👋
 
 I’m an **AI/ML Data Scientist** with **6+ years of experience** building end-to-end, business-critical data products - spanning **predictive modeling, NLP, Generative AI, and LLM/Agentic AI systems**. I hold a **Master’s in Applied Data Science & Analytics (San José State University, CA)**. I’m passionate about turning messy, high-volume data into **reliable, measurable, and production-ready** solutions.
 
