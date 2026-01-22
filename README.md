@@ -14,7 +14,7 @@ I’m an **AI/ML Data Scientist** with **6+ years of experience** building end-t
 
 ## About Me 🤖
 
-My journey into **Data Science and AI** has been driven by curiosity, strong problem ownership, and a desire to turn complex data into clear, measurable outcomes. Over **6+ years**, I’ve built and improved solutions across **Machine Learning, NLP, and GenerativeAI** - ranging from predictive modeling and large-scale analytics to automation and decision intelligence.
+My journey into **Data Science and AI** has been driven by curiosity, strong problem ownership, and a desire to turn complex data into clear, measurable outcomes. Over **6+ years**, I’ve built and improved solutions across **Machine Learning, NLP, and Generative AI** - ranging from predictive modeling and large-scale analytics to automation and decision intelligence.
 
 I hold a **Master’s in Applied Data Science & Analytics** from **San José State University**. My experience spans both startups and big corporates, where I’ve delivered end-to-end ML work: framing ambiguous problems, engineering robust features, training and tuning models, and deploying pipelines that support real business workflows. More recently, I’ve been focused on **LLM-powered systems**, including **RAG** and **agentic workflows** using frameworks like **LangChain/LangGraph**, with an emphasis on reliability, grounded outputs, and practical adoption.
 
